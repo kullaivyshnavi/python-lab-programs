@@ -6,8 +6,6 @@ e = 3 + 4j
 f = [10, 20, 30]
 g = (1, 2, 3)
 h = {"Name": "John", "Age": 20}
-
-# Display data types
 print("Value:", a, "Type:", type(a))
 print("Value:", b, "Type:", type(b))
 print("Value:", c, "Type:", type(c))
